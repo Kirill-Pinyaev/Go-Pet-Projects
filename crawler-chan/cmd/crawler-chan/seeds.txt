@@ -1,0 +1,5 @@
+https://go.dev/
+https://go.dev/blog/
+https://go.dev/doc/
+https://go.dev/play/
+https://go.dev/security/

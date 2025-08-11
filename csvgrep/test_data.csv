@@ -1,0 +1,9 @@
+id,name,age,bytes,path,status
+1,Alice,25,512,/img/logo.png,200
+2,Bob,30,2048,/index.html,200
+3,Carol,22,4096,/img/photo.jpg,404
+4,Dan,30,1024,/images/banner.png,500
+5,Eve,35,1500,/static/css/style.css,500
+6,Frank,28,800,/img/icon.png,200
+7,Grace,30,2048,/download/file.zip,503
+8,Hank,27,350,/img/logo.svg,200
